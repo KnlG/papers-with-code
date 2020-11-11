@@ -1,0 +1,1 @@
+scrapy crawl sota -t json -o - > "res.json"
